@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PLURALSIGHT_OOP_TUTORIAL
+namespace BusinessApp
 {
     class Program
     {

@@ -1,0 +1,11 @@
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/bin/Debug/netcoreapp3.1/BusinessApp
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/bin/Debug/netcoreapp3.1/BusinessApp.deps.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/bin/Debug/netcoreapp3.1/BusinessApp.runtimeconfig.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/bin/Debug/netcoreapp3.1/BusinessApp.runtimeconfig.dev.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/bin/Debug/netcoreapp3.1/BusinessApp.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/bin/Debug/netcoreapp3.1/BusinessApp.pdb
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/obj/Debug/netcoreapp3.1/BusinessApp.csprojAssemblyReference.cache
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/obj/Debug/netcoreapp3.1/BusinessApp.AssemblyInfoInputs.cache
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/obj/Debug/netcoreapp3.1/BusinessApp.AssemblyInfo.cs
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/obj/Debug/netcoreapp3.1/BusinessApp.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/BusinessApp/BusinessApp/BusinessApp/BusinessApp/obj/Debug/netcoreapp3.1/BusinessApp.pdb
