@@ -1,0 +1,13 @@
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/ACM.BL.Test.deps.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/ACM.BL.Test.runtimeconfig.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/ACM.BL.Test.runtimeconfig.dev.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/ACM.BL.Test.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/bin/Debug/netcoreapp1.1/ACM.BL.Test.pdb
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/obj/Debug/netcoreapp1.1/ACM.BL.Test.csprojAssemblyReference.cache
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/obj/Debug/netcoreapp1.1/ACM.BL.Test.AssemblyInfoInputs.cache
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/obj/Debug/netcoreapp1.1/ACM.BL.Test.AssemblyInfo.cs
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/obj/Debug/netcoreapp1.1/ACM.BL.Test.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL.Test/obj/Debug/netcoreapp1.1/ACM.BL.Test.pdb

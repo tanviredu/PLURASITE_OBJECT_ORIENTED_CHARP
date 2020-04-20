@@ -1,0 +1,8 @@
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.deps.json
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.pdb
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csprojAssemblyReference.cache
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.AssemblyInfoInputs.cache
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.AssemblyInfo.cs
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.dll
+/home/tanvir/storage2/code/PLURASITE_OBJECT_ORIENTED_CHARP/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.pdb
